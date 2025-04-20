@@ -1,8 +1,9 @@
 # JavaScript example #
 
-TO-DO Describe the plugin shortly here.
+A sample plugin to show JavaScript use in Moodle
 
-TO-DO Provide more detailed description here.
+This is a sample plugin used in Moodle Academy courses.
+For educational purposes only. It is NOT intended for use in production environments.
 
 ## Installing via uploaded ZIP file ##
 
